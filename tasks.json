@@ -1,0 +1,5 @@
+[
+    {"id": 1, "name": "Hosting Básico", "price": 5.99},
+    {"id": 2, "name": "Hosting Premium", "price": 9.99},
+    {"id": 3, "name": "VPN", "price": 7.99}
+]
