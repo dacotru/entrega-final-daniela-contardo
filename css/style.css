@@ -1,0 +1,21 @@
+.completada span {
+    text-decoration: line-through;
+    color: grey;
+}
+.incompleta {
+    color: black;
+}
+.boton-completada {
+    background-color: #28a745;
+    color: white;
+    margin-right: 1rem;
+}
+.boton-pendiente {
+    background-color: #ff740f;
+    color: white;
+    margin-right: 1rem;
+}
+.acciones {
+    display: flex;
+    justify-content: flex-end;
+}

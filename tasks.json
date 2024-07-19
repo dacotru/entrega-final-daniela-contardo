@@ -1,0 +1,8 @@
+[
+    { "nombre": "Comprar comida", "completada": false },
+    { "nombre": "Leer un libro", "completada": true },
+    { "nombre": "Hacer ejercicio", "completada": false },
+    { "nombre": "Lavar la loza", "completada": false },
+    { "nombre": "Hacer aseo al baño", "completada": false },
+    { "nombre": "Lavar la ropa", "completada": false }
+]
